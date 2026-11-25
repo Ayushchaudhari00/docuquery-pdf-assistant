@@ -1,0 +1,9 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+target/
+frontend/node_modules/
+frontend/dist/
+uploads/
+.env
+.idea/
+*.iml
